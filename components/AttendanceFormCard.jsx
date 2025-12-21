@@ -138,4 +138,6 @@ const AttendanceFormCard = (props) => {
     `}</style>
   </div>
 }
+
+export default AttendanceFormCard;
  
