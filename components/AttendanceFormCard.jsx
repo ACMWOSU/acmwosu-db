@@ -107,7 +107,7 @@ const AttendanceFormCard = (props) => {
           <Form.Text className="field-error">
               {failureMessage}
           </Form.Text>
-          <Form.Label className="resume-db"><a href="https://drive.google.com/drive/folders/13jPGhc4-XdhZeEAEvA5OleioY_T3R60av75oPoc1Y3jo0YBRMbqrxfjBxn1qG6Zx5t6JyePh?usp=sharing" target="_blank" rel="noopener noreferrer">Click Here To Add Your Resume To Our Database</a></Form.Label><br/>
+          <Form.Label className="resume-db"><a href="https://forms.gle/5sZdHbwxJq61FPWh9" target="_blank" rel="noopener noreferrer">Click Here To Add Your Resume To Our Database</a></Form.Label><br/>
           <Button variant="primary" type="submit">
             Submit
           </Button>
@@ -138,5 +138,4 @@ const AttendanceFormCard = (props) => {
     `}</style>
   </div>
 }
-
-export default AttendanceFormCard;
+ 
