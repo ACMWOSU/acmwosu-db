@@ -55,7 +55,7 @@ const AttendanceFormCard = (props) => {
 
   return <div>
     <Card id="att-form">
-      <Card.Img className="sponsor-logos" variant="top" src="/sponsor_logos.PNG" />
+      <Card.Img className="sponsor-logos" variant="top" src="/sponsor_logos_26.PNG" />
       <Card.Body>
         <Form onSubmit={(event) => onSubmit(event)}>
           <Form.Group className="mb-3" controlId="formEventCode">
